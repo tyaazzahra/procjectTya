@@ -1,0 +1,14 @@
+body{
+    background-image: url("buku perpustakaan.jpg");
+
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-item: center;
+    min-height: 100vh;
+    background: url('buku perpustakaan.jpg') no-repeat;
+    background-size: cover;
+    background-position: center
+}   
